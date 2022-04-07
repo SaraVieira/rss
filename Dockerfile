@@ -1,4 +1,4 @@
-FROM privatebin/nginx-fpm-alpine
+FROM miniflux/miniflux:latest
 
 # Create some folders
 # RUN mkdir -p /data
